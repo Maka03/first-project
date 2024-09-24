@@ -1,0 +1,18 @@
+.category-container {
+    padding: 20px;
+  }
+  
+  .category-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .category-container li {
+    margin: 10px 0;
+  }
+  
+  .category-container a {
+    text-decoration: none;
+    color: blue;
+  }
+  

@@ -1,0 +1,11 @@
+.home {
+    padding: 20px;
+  }
+  
+  .home a {
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: blue;
+  }
+  
